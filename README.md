@@ -1,2 +1,2 @@
 # snakegame
-This repository contains the JUnit test files and the Java code coverage report for the SnakeGame
+This repository contains JUnit test files and Java code report for the SnakeGame
